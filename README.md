@@ -24,3 +24,6 @@ Output and policy is generated in DRL-dialogue/results as a .txt and .json file 
 
 ## Config file
 The config file present in DRL-dialogue/config.txt has number of paramenters which can be changed to experiment with diffrent values. 
+
+## References:
+[Heriberto Cuayáhuitl, Seunghak Yu, Ashley Williamson, Jacob Carse: Deep Reinforcement Learning for Multi-Domain Dialogue Systems. (2016)](https://arxiv.org/pdf/1611.08675.pdf).
