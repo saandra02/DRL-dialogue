@@ -1,6 +1,6 @@
 ## README
 **A Simple Deep Reinforcement Learning Dialogue System** done as an component of course CS F317 - Reinforcement Learning
-### Report : Link
+### [Detailed Report](https://github.com/saandra02/DRL-dialogue/blob/main/RL14_Project_Report.pdf)
 ## Tools used
 - Java 1.8.0 or higher
 - Ant 1.9.3 or higher
